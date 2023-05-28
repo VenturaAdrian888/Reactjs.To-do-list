@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VenturaAdrian888.github.io/Reactjs.To-do-list/static/css/main.eb0f37d6.css",
+    "main.js": "/VenturaAdrian888.github.io/Reactjs.To-do-list/static/js/main.022e79bb.js",
+    "static/js/787.a5cad257.chunk.js": "/VenturaAdrian888.github.io/Reactjs.To-do-list/static/js/787.a5cad257.chunk.js",
+    "index.html": "/VenturaAdrian888.github.io/Reactjs.To-do-list/index.html",
+    "main.eb0f37d6.css.map": "/VenturaAdrian888.github.io/Reactjs.To-do-list/static/css/main.eb0f37d6.css.map",
+    "main.022e79bb.js.map": "/VenturaAdrian888.github.io/Reactjs.To-do-list/static/js/main.022e79bb.js.map",
+    "787.a5cad257.chunk.js.map": "/VenturaAdrian888.github.io/Reactjs.To-do-list/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0f37d6.css",
+    "static/js/main.022e79bb.js"
+  ]
+}
